@@ -54,7 +54,7 @@ screenshots/
 ```
 Startup-Funding-Analysis/
 │
-├── app.py                    # Main Streamlit application
+├── main.py                    # Main Streamlit application
 ├── cleaned_startup.csv       # Dataset
 ├── requirements.txt          # Required libraries
 ├── README.md                 # Project documentation
@@ -82,7 +82,7 @@ The project uses a cleaned startup funding dataset containing information such a
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Startup-Funding-Analysis.git
+git clone https://github.com/aniketdevhub/Startup-Funding-Analysis.git
 ```
 
 Move into the project directory
@@ -151,16 +151,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Demo
-
-If deployed on Streamlit Cloud, add your application link here.
-
-```
-https://your-app-name.streamlit.app
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -196,11 +186,11 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+Aniket Kumar Singh
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/aniketdevhub
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/aniket-kumar-singh-26091940b/
 
 ---
 
